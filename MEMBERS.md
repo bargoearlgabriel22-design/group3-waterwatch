@@ -2,3 +2,4 @@
 
 | Name | Role |
 |------|------|
+| Xyrad Nash Caballero | Backend Developer |
